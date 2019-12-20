@@ -3,7 +3,17 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  firebase: {
+    apiKey: 'AIzaSyB9rUnwnrER6BywOkQC4Tx3liOFpuZs6Ws',
+    authDomain: 'nooblabfire.firebaseapp.com',
+    databaseURL: 'https://nooblabfire.firebaseio.com',
+    projectId: 'nooblabfire',
+    storageBucket: 'nooblabfire.appspot.com',
+    messagingSenderId: '89700264707',
+    appId: '1:89700264707:web:5a1ae45c575c26e6f09736',
+    measurementId: 'G-Q01W39ZPZD'
+  }
 };
 
 /*

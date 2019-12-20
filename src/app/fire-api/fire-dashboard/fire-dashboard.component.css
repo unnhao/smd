@@ -1,0 +1,18 @@
+.form {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.example-card {
+  text-align: center;
+  width: 300px;
+}
+
+.example-header {
+  text-align: center;
+}
+
+.example-container {
+  margin: 0 auto;
+}
